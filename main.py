@@ -1,5 +1,5 @@
 # from methods_help import method_help
-from functions import function,welcome,add_numbers,num_dividedFrom_add_numbers
+from functions import function,welcome,add_numbers,num_dividedFrom_add_numbers,greet
 # from returnStuff import returns
 
 
@@ -11,4 +11,6 @@ added = add_numbers(45,5)
 print(added)
 final = num_dividedFrom_add_numbers (45,added)
 print(final)
+print(greet)
+
 # returnS()
