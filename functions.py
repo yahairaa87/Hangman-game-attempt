@@ -46,5 +46,5 @@ def function():
 
 # You should only define the function and create the variable, you should not call the function afterwards.
 
-def square(num):
-  return num **2
+# def square(num):
+#   return num **2
